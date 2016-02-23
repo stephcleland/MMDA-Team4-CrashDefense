@@ -29,6 +29,9 @@
 		159C6EBA1C7BE7E300827833 /* 846.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159C6EB61C7BE7E300827833 /* 846.jpg */; };
 		159C6EBB1C7BE7E300827833 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 159C6EB71C7BE7E300827833 /* settings.png */; };
 		159C6EBC1C7BE7E300827833 /* back_button-640x594.png in Resources */ = {isa = PBXBuildFile; fileRef = 159C6EB81C7BE7E300827833 /* back_button-640x594.png */; };
+		159C6EC01C7CBAC300827833 /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 159C6EBD1C7CBAC300827833 /* Icon-29.png */; };
+		159C6EC11C7CBAC300827833 /* Icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 159C6EBE1C7CBAC300827833 /* Icon-29@2x.png */; };
+		159C6EC21C7CBAC300827833 /* Icon-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 159C6EBF1C7CBAC300827833 /* Icon-29@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +80,9 @@
 		159C6EB61C7BE7E300827833 /* 846.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 846.jpg; sourceTree = "<group>"; };
 		159C6EB71C7BE7E300827833 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
 		159C6EB81C7BE7E300827833 /* back_button-640x594.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back_button-640x594.png"; sourceTree = "<group>"; };
+		159C6EBD1C7CBAC300827833 /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
+		159C6EBE1C7CBAC300827833 /* Icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@2x.png"; sourceTree = "<group>"; };
+		159C6EBF1C7CBAC300827833 /* Icon-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +115,9 @@
 		15459FB81C69377500F0D2F4 = {
 			isa = PBXGroup;
 			children = (
+				159C6EBD1C7CBAC300827833 /* Icon-29.png */,
+				159C6EBE1C7CBAC300827833 /* Icon-29@2x.png */,
+				159C6EBF1C7CBAC300827833 /* Icon-29@3x.png */,
 				159C6EB51C7BE7E300827833 /* turtle1.png */,
 				159C6EB61C7BE7E300827833 /* 846.jpg */,
 				159C6EB71C7BE7E300827833 /* settings.png */,
@@ -287,11 +296,14 @@
 			files = (
 				159C6EBA1C7BE7E300827833 /* 846.jpg in Resources */,
 				159C6EBB1C7BE7E300827833 /* settings.png in Resources */,
+				159C6EC01C7CBAC300827833 /* Icon-29.png in Resources */,
 				15091F9E1C7A6CE700235757 /* crashdb.txt in Resources */,
 				15459FD21C69377500F0D2F4 /* LaunchScreen.storyboard in Resources */,
 				15459FCF1C69377500F0D2F4 /* Assets.xcassets in Resources */,
 				159C6EB91C7BE7E300827833 /* turtle1.png in Resources */,
+				159C6EC21C7CBAC300827833 /* Icon-29@3x.png in Resources */,
 				15459FCA1C69377500F0D2F4 /* Main.storyboard in Resources */,
+				159C6EC11C7CBAC300827833 /* Icon-29@2x.png in Resources */,
 				159C6EBC1C7BE7E300827833 /* back_button-640x594.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
