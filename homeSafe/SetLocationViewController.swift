@@ -72,14 +72,14 @@ class SetLocationViewController:  UIViewController, CLLocationManagerDelegate, U
             } else if response!.mapItems.count == 0 {
                 print("No matches found")
             } else {
-                print("Matches found")
+                //print("Matches found")
                 
                 for item in response!.mapItems {
-                    print("Name = \(item.name)")
-                    print("Phone = \(item.phoneNumber)")
+                    //print("Name = \(item.name)")
+                    //print("Phone = \(item.phoneNumber)")
                     
                     self.matchingItems.append(item as MKMapItem)
-                    print("Matching items = \(self.matchingItems.count)")
+                    //print("Matching items = \(self.matchingItems.count)")
                     
                     homeAnnotation.coordinate = item.placemark.coordinate
                     hasSetLocation = true

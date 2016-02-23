@@ -11,7 +11,6 @@
 		15091F981C73A64000235757 /* PersonalizeMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15091F971C73A64000235757 /* PersonalizeMessageViewController.swift */; };
 		15091F9C1C767A0000235757 /* AccidentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15091F9B1C767A0000235757 /* AccidentController.swift */; };
 		15091F9E1C7A6CE700235757 /* crashdb.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15091F9D1C7A6CE700235757 /* crashdb.txt */; };
-		15091FA01C7A73F800235757 /* SwiftRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15091F9F1C7A73F800235757 /* SwiftRequest.swift */; };
 		1529B1371C72610E00935BE8 /* SetLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1529B1361C72610E00935BE8 /* SetLocationViewController.swift */; };
 		1529B1391C738DF800935BE8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1529B1381C738DF800935BE8 /* SettingsViewController.swift */; };
 		15459FC51C69377500F0D2F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15459FC41C69377500F0D2F4 /* AppDelegate.swift */; };
@@ -54,7 +53,6 @@
 		15091F971C73A64000235757 /* PersonalizeMessageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonalizeMessageViewController.swift; sourceTree = "<group>"; };
 		15091F9B1C767A0000235757 /* AccidentController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccidentController.swift; sourceTree = "<group>"; };
 		15091F9D1C7A6CE700235757 /* crashdb.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = crashdb.txt; sourceTree = "<group>"; };
-		15091F9F1C7A73F800235757 /* SwiftRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftRequest.swift; path = ../../../../../Desktop/SwiftRequest/SwiftRequest.swift; sourceTree = "<group>"; };
 		1529B1361C72610E00935BE8 /* SetLocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetLocationViewController.swift; sourceTree = "<group>"; };
 		1529B1381C738DF800935BE8 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		15459FC11C69377500F0D2F4 /* crashDefense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = crashDefense.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -137,7 +135,6 @@
 		15459FC31C69377500F0D2F4 /* crashDefense */ = {
 			isa = PBXGroup;
 			children = (
-				15091F9F1C7A73F800235757 /* SwiftRequest.swift */,
 				15091F9B1C767A0000235757 /* AccidentController.swift */,
 				15459FC41C69377500F0D2F4 /* AppDelegate.swift */,
 				15459FC61C69377500F0D2F4 /* ViewController.swift */,
@@ -330,7 +327,6 @@
 				15459FF61C6937F500F0D2F4 /* MyLocation.swift in Sources */,
 				15459FC51C69377500F0D2F4 /* AppDelegate.swift in Sources */,
 				1529B1391C738DF800935BE8 /* SettingsViewController.swift in Sources */,
-				15091FA01C7A73F800235757 /* SwiftRequest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

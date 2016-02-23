@@ -43,14 +43,14 @@ class PersonalizeMessageViewController: UIViewController {
         textField1.resignFirstResponder()
         childName = textField1.text
         nameDisplay.text = "Name: " + childName
-        print(childName)
+        //print(childName)
     
     }
     @IBAction func textEntered1(sender: AnyObject) {
         textField1.resignFirstResponder()
         childName = textField1.text
         nameDisplay.text = "Name: " + childName
-        print(childName)
+        //print(childName)
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
